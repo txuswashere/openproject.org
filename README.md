@@ -76,8 +76,7 @@ Find your perfect set-up and choose between on-premises as well as flexible host
 
 ![Otra forma de hacer las cosas es posible... https://www.grupo-int.com/](https://github.com/txuswashere/grupo-int.com/raw/main/grupo-int.jpg)
 # Otra forma de hacer las cosas es posible... https://www.grupo-int.com/
-
-
+![Otra forma de hacer las cosas es posible... https://www.grupo-int.com/](https://github.com/txuswashere/openproject.org/raw/main/openproject-nextcloud.png)
 ###  OpenProject: aplicación cloud 
 OpenProject es un software de código abierto para la gestión de proyectos.
 OpenProject ofrece un gran número de funciones y plugins para ayudar a su equipo durante todas las fases de sus proyectos: desde el primer esbozo de un plan de proyecto hasta la información de estado o la documentación, pasando por el control de los requisitos y las tareas.
