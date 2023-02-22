@@ -82,12 +82,12 @@ Find your perfect set-up and choose between on-premises as well as flexible host
 OpenProject es un software de código abierto para la gestión de proyectos.
 OpenProject ofrece un gran número de funciones y plugins para ayudar a su equipo durante todas las fases de sus proyectos: desde el primer esbozo de un plan de proyecto hasta la información de estado o la documentación, pasando por el control de los requisitos y las tareas.
 * https://www.arsys.es/servidores/aplicaciones/openproject
+* https://www.ionos.es/cloud/cloud-apps/openproject
 
 OpenProject es un software de código abierto de gestión de proyectos con el que se pueden crear proyectos completos. Con OpenProject puede definir los objetivos de sus proyectos y visualizar los paquetes de trabajo e hitos en un diagrama de Gantt. Además, es posible dividir los paquetes de trabajo y sus resultados en tareas y actividades visuales y fáciles de diferenciar. Este software le permite además mostrar varios planes de un mismo proyecto en un plan de proyecto agregado. También puede gestionar y hacer un seguimiento de todas las tareas, productos y actividades de un proyecto desde el inicio del mismo y durante su ejecución. Además, OpenProject ofrece la posibilidad de contabilizar el tiempo estimado y utilizado para cada proyecto. Este software de gestión de proyectos de código abierto también puede utilizarse para la contabilización de los costes. Cuando un proyecto se completa, se pueden crear informes finales y resumir los principales resultados.
 * OpenProject es un software de gestión de proyectos de código abierto que participa en el desarrollo de proyectos de principio a fin.
 * Con OpenProject puede definir los objetivos de su proyecto y visualizar los paquetes de trabajo e hitos en un diagrama de Gantt. También puede hacer un seguimiento de todas las tareas, los progresos y las actividades relacionadas con el proyecto.
 * En un plan de proyecto agregado se pueden mostrar varios planes de proyectos.
-https://www.ionos.es/cloud/cloud-apps/openproject
 
 
 
