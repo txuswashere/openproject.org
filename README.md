@@ -1,11 +1,15 @@
 # openproject.org
 https://www.openproject.org/
-
+![Otra forma de hacer las cosas es posible... https://www.grupo-int.com/](https://github.com/txuswashere/openproject.org/raw/main/openproject.png)
 ## Open source project management software.
 Efficient classic, agile or hybrid project management in a secure environment.
 
 ### Take control of your data and stay secure.
 
+* https://www.openproject.org/docs/
+* https://github.com/opf/openproject
+* https://www.openproject.org/docs/user-guide/nextcloud-integration/
+* https://www.openproject.org/docs/system-admin-guide/integrations/nextcloud/
 
 ![Otra forma de hacer las cosas es posible... https://www.grupo-int.com/](https://github.com/txuswashere/grupo-int.com/raw/main/grupo-int.jpg)
 # Otra forma de hacer las cosas es posible... https://www.grupo-int.com/
@@ -68,9 +72,6 @@ Find your perfect set-up and choose between on-premises as well as flexible host
 * Enterprise cloud. Concentrate on your business and let the experts do the hosting for you. This SaaS solution does not require any technical setup. The Enterprise Cloud offers you professional OpenProject Hosting and additional Enterprise add-ons and support.
 
 
-
-* https://www.openproject.org/docs/
-* https://github.com/opf/openproject
 
 
 ![Otra forma de hacer las cosas es posible... https://www.grupo-int.com/](https://github.com/txuswashere/grupo-int.com/raw/main/grupo-int.jpg)
