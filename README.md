@@ -7,6 +7,10 @@ Efficient classic, agile or hybrid project management in a secure environment.
 ### Take control of your data and stay secure.
 
 
+![Otra forma de hacer las cosas es posible... https://www.grupo-int.com/](https://github.com/txuswashere/grupo-int.com/raw/main/grupo-int.jpg)
+# Otra forma de hacer las cosas es posible... https://www.grupo-int.com/
+
+
 # Data sovereignty
 Take back your data ownership: we give you the power to protect your privacy in a secure environment and with highest standards in data security and privacy.
 
@@ -82,4 +86,9 @@ OpenProject es un software de código abierto de gestión de proyectos con el qu
 * OpenProject es un software de gestión de proyectos de código abierto que participa en el desarrollo de proyectos de principio a fin.
 * Con OpenProject puede definir los objetivos de su proyecto y visualizar los paquetes de trabajo e hitos en un diagrama de Gantt. También puede hacer un seguimiento de todas las tareas, los progresos y las actividades relacionadas con el proyecto.
 * En un plan de proyecto agregado se pueden mostrar varios planes de proyectos.
-* https://www.ionos.es/cloud/cloud-apps/openproject
+https://www.ionos.es/cloud/cloud-apps/openproject
+
+
+
+![Otra forma de hacer las cosas es posible... https://www.grupo-int.com/](https://github.com/txuswashere/grupo-int.com/raw/main/grupo-int.jpg)
+# Otra forma de hacer las cosas es posible... https://www.grupo-int.com/
